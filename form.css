@@ -1,0 +1,18 @@
+.form{
+    height: 80vh;
+    width: 100%;
+    border: 1px solid;
+}
+.form section{
+    margin: auto;
+    border: 1px solid;
+    background-color: green;
+    width: 40%;
+    height: 30%;
+    font-size: 25px;
+}
+.form section #inputform{
+    border: 1px solid black;
+    margin-top:50% ;
+    
+}
