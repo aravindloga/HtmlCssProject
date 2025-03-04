@@ -12,6 +12,8 @@ header{
     margin-top: 30px;
     position: sticky;
     font-size: 32px;
+    /* to stick we need to give the sticky */
+    top: 0;
     
 }
 header #Logo{
